@@ -5,7 +5,7 @@ desc
 Download the app and open in cmd prompt.
 
 install node and npm
-use npm start and open http://localhost:3000
+use "npm start" command to run the app and open http://localhost:3000
 
 app will reflect
 
